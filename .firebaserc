@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "ommyochain-web-docs"
+  },
+  "targets": {
+    "ommyochain-web-docs": {
+      "hosting": {
+        "prod": [
+          "ommyochain-web-docs"
+        ],
+        "staging": [
+          "staging-docs-ommyochain"
+        ]
+      }
+    }
+  }
+}

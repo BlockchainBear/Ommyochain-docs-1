@@ -1,0 +1,42 @@
+{
+  "allowCompoundWords": true,
+  "dictionaries": [
+    "typescript",
+    "cpp",
+    "npm",
+    "filetypes",
+    "cpp",
+    "en_GB",
+    "en_US",
+    "node",
+    "bash",
+    "fonts",
+    "npm",
+    "cryptocurrencies",
+    "companies",
+    "rust",
+    "html",
+    "css",
+    "entities",
+    "softwareTerms",
+    "misc",
+    "fullstack",
+    "softwareTerms",
+    "ommyochain"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "ommyochain",
+      "addWords": true,
+      "path": "./cspell-ommyochain.txt"
+    }
+  ],
+  "ignorePaths": [
+    "node_modules",
+    ".github",
+    "drafts",
+    ".github",
+    "yarn"
+  ],
+  "language": ["en-Gb", "en-Us"]
+}
