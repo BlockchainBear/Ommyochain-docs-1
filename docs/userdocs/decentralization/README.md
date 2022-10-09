@@ -28,13 +28,12 @@ protocols, this is not necessary, because users can ultimately rely on L1 to cir
 
 ## Who operates Ommyochain now
 
-Currently, the computational service provider for the **Ommyochain** network is "Stichting ZK Sync", a non-profit Dutch
-foundation registered under RSIN 861038204 in Kingsfordweg 151, 1043GR Amsterdam. The service operates close to
-break-even costs. For the business model, see [here](/userdocs/tokenomics).
+Currently, the computational service provider for the **Ommyochain** network is "Ommyo Labs", a UAE
+foundation registered under in the private office of the Shiekh. 
 
 ## Decentralization roadmap
 
-Matter Labs is committed to developing **Ommyochain** into a fully decentralized protocol.
+Ommyo Labs is committed to developing **Ommyochain** into a fully decentralized protocol.
 
 We outlined the decentralization roadmap in the
 [Ommyochain vision](https://medium.com/ommyochain/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
