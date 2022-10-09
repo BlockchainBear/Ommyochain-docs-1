@@ -1,6 +1,8 @@
 # Learn by Watching
 
-Click on the links below for a playlist of curated videos on each topic.
+Click on the links below for a playlist of curated videos we have linked to on each topic.
+
+more educational and custom videos to come
 
 - [zkRollups](https://www.youtube.com/watch?v=hcLoSQmvhfY&list=PL-Bw34ynlUONLcuwOdaG7A06YQrGEns4s)
 - [Ommyochain 1.0](https://www.youtube.com/watch?v=el-9YYGN1nw&list=PL-Bw34ynlUONlnXdkm608shHry8hrYlex)
