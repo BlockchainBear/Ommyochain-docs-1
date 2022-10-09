@@ -2,8 +2,8 @@
 
 ## Mainnet
 
-[https://uptime.com/s/Ommyochain](https://uptime.com/s/Ommyochain)
+coming soon!
 
 ## Testnets
 
-[https://uptime.com/s/Ommyochain-testnet](https://uptime.com/s/Ommyochain-testnet)
+open to whitelist particpants only, public beta coming soon
