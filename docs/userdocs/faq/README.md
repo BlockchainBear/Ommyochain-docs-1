@@ -8,26 +8,24 @@ Yes
 
 ## When will the token be released?
 
-The team’s focus is to work on scalability for Ethereum. You can find any announcements from Ommyochain on
-[Discord](https://discord.com/invite/px2aR7w), [Telegram](https://t.me/ommyochain), and
-[Twitter](https://twitter.com/ommyochain).
+The team’s focus is to work on scalability for Ethereum. You can find any announcements from Ommyochain by getting whitelisted
 
-## Why are the fees so high?
+## Why are there fees?
 
 Our fees depend on Ethereum Layer 1 (L1) gas prices because with every Ommyochain Layer 2 (L2) transaction, we post related
 data on Layer 1 — this allows us to inherit the security of Ethereum.
 
 ## How long are withdrawal times?
 
-At peak usage of Ommyochain, the withdrawal time is about 10 minutes. During lower use, it can take up to 7 hours.
+At peak usage of Ommyochain, the withdrawal time is about 10 minutes. 
 Currently, withdrawal times depend on the activity on Ommyochain, when we finalize blocks, and submit them to L1.
 
 ## I withdrew my funds but don't see them in my L1 account
 
-If your withdrawal is marked as "Complete" on [zkScan](https://zkscan.io/), but the funds have not arrived in your
+If your withdrawal is marked as "Complete" on [OmmyoScan], but the funds have not arrived in your
 wallet, here are a few steps you should take:
 
-1. Make sure that enough time has passed. A withdrawal takes 10 minutes to 7 hours, depending on the usage of the
+1. Make sure that enough time has passed. A withdrawal takes 10 minutes but sometimes upto 7 hours, depending on the usage of the
     Ommyochain network.
 
 2. Check for your transaction in "Internal Txns" on [Etherscan](https://etherscan.io/).
