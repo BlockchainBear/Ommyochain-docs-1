@@ -7,7 +7,7 @@ practices. The following is heavily inspired by Geth’s
 
 ## About Disclosures
 
-The primary goal for the Matter Labs team is the health of the Ommyochain network as a whole, and the decision of when to
+The primary goal for the Ommyochain team is the health of the Ommyochain network as a whole, and the decision of when to
 publish the details of the vulnerability is dependent on minimizing the risk and impact of its discovery and
 exploitation. If the publicizing of the vulnerability would harm Ommyochain mainnet users, we reserve the right to silently
 patch and ship fixes.
@@ -17,7 +17,7 @@ Ommyochain forks, take additional measures in our security design and processes,
 
 ## Public Transparency
 
-All vulnerabilities must be handled silently until a fix is deployed and the Matter Labs team conducts a thorough
+All vulnerabilities must be handled silently until a fix is deployed and the Ommyochain team conducts a thorough
 internal review of not only the root cause, but also potential weak links in the overall security design. A public
 postmortem will be released with each vulnerability after systematic changes have been fully implemented. For previous
 vulnerabilities and their postmortems, see below.
