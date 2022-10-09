@@ -30,7 +30,7 @@ programmers now have first-class access to the unmatched scaling, security, and 
 
 ### What is Ommyochain 2.0?
 
-Ommyochain 2.0 is an EVM-compatible ZK Rollup being built by Matter Labs, powered by our zkEVM.
+Ommyochain 2.0 is an EVM-compatible ZK Rollup being built by Ommyochain team, powered by our zkEVM.
 
 But this is not our first product! Ommyochain 1.0 has been
 [live for payments](https://twitter.com/vitalikbuterin/status/1287921136911753216?lang=en) for almost 2 years:
