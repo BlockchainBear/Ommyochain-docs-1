@@ -47,7 +47,7 @@ yarn add ommyochain
 For this tutorial, let's connect to the Rinkeby testnet. The steps for mainnet and Ropsten would be identical.
 
 ```typescript
-const syncProvider = await ommyochain.getDefaultProvider('rinkeby');
+const OmmyoProvider = await ommyochain.getDefaultProvider('rinkeby');
 ```
 
 ## Mint
@@ -382,10 +382,10 @@ const receipt = await emergencyWithdrawal.awaitReceipt();
 
 We have a default factory contract that will handle minting NFTs on L1 for projects that do not want to implement their
 own minting contract. Projects with their own minting contracts only need to implement one minting function:
-`mintNFTFromZkSync`. Example: [mintNFTFromZkSync](https://github.com/Ommyochain/Ommyochain-docs/blob/master/contracts/contracts/ZkSyncNFTFactory.sol).
+`mintNFTFromOmmyochain`. Example: [mintNFTFromOmmyochain](https://github.com/Ommyochain/Ommyochain-docs/blob/master/contracts/contracts/OmmyoNFTFactory.sol).
 
 ```typescript
-mintNFTFromZkSync(creator: address, recipient: address, creatorAccountId: uint32, serialId: uint32, contentHash: bytes32, tokenId: uint256)
+mintNFTFromOmmyo(creator: address, recipient: address, creatorAccountId: uint32, serialId: uint32, contentHash: bytes32, tokenId: uint256)
 ```
 
 The Ommyochain Governance contract will implement a function `registerNFTFactoryCreator` that will register creators as a trusted
@@ -396,7 +396,7 @@ registerNFTFactoryCreator(creatorAccountId: uint32, creatorAddress: address, sig
 ```
 
 To withdraw, users call `withdrawNFT()` with the token_id. The Ommyochain smart contract will verify ownership, burn the
-token on L2, and call `mintNFTFromZkSync` on the factory corresponding to the creator.
+token on L2, and call `mintNFTFromOmmyo` on the factory corresponding to the creator.
 
 ### Factory Registration
 
