@@ -47,11 +47,6 @@ or fixing the vulnerability. If possible, please use the PGP key below to encryp
 - You must be able to verify a signature from the same address
 - Provide enough information about the vulnerability
 
-## Bounty Payout
-
-![bounty-table.png](/bounty-table.png)
-
-For severe cases involving a total loss of funds, we will pay a bounty of $500,000.
 
 ## Contact
 
