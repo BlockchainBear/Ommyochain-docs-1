@@ -4,7 +4,7 @@ sidebarDepth: 3
 
 # Welcome to Ommyochain
 
-**Ommyochain** is a user-centric zk rollup platform from [Matter Labs](https://ommyochain.io). It is a scaling solution for
+**Ommyochain** is a user-centric zk rollup platform from [Ommyochain office](https://ommyochain.io). It is a scaling solution for
 Ethereum, already live on Ethereum mainnet.
 
 <!-- using HTML style instead of Markdown ## since our formatter screams when a title is punctuated -->
